@@ -1,3 +1,8 @@
+# NOTE: This Repo is just the old support repo I am hosting on github pages.
+I have no affiliation with Whitehill in this process.
+
+**Check it out at https://raadtotheraad.com/whitehill-legacy-docs !**
+
 # Whitehill Support knowledgebase
 
 ## Please note: this site is not complete.
