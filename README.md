@@ -1,7 +1,7 @@
-# NOTE: This Repo is just the old support repo I am hosting on github pages.
+# NOTE: This Repo is just the old support repo I am hosting on cloudflare pages.
 I have no affiliation with Whitehill in this process.
 
-**Check it out at https://raadtotheraad.com/whitehill-legacy-docs !**
+**Check it out at https://whitehill-legacy-docs.raadtotheraad.com !**
 
 # Whitehill Support knowledgebase
 
